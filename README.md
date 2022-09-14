@@ -13,4 +13,3 @@ Examples of answers:
 ![answer1](https://user-images.githubusercontent.com/96831988/186164431-aae8231a-1162-4e20-b2cc-f9d2b5b6cd54.png)
 ![answer2](https://user-images.githubusercontent.com/96831988/186164442-d4213107-c79a-4d4a-8464-008eef59ab60.png)
 
-Bugs: background doesn't cover full screen. 
